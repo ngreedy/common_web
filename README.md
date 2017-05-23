@@ -25,3 +25,4 @@
 18.GitBook  android 参考组件 :https://snowdream.github.io/awesome-android/Widget.html#Recyclerview
 19.GUI系统  ：http://www.cnblogs.com/samchen2009/p/3364327.html
 20.Android 设计模式 ：http://www.cnblogs.com/qianxudetianxia/category/312863.html
+21.常用新手引导  http://blog.coderclock.com/2017/05/22/android/open-source-android-app-guide-view-library/
