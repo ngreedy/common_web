@@ -58,3 +58,8 @@
 
 
 21.常用新手引导  http://blog.coderclock.com/2017/05/22/android/open-source-android-app-guide-view-library/
+
+<a href="http://www.jianshu.com/p/cb2deed0f2d8">那些年Android黑科技①:只要活着，就有希望</a>
+<a href="http://www.jianshu.com/p/6450b0da5876">android开发中相见恨晚的冷知识【简单说】</a>
+<a href="http://www.jianshu.com/p/30909296ac01">安利一波androidView视觉开源控件 每个都值得学习哦【简单说】</a>
+
